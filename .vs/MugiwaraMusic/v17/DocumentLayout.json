@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|c:\\users\\amazi\\onedrive\\desktop\\c# coding\\websites, apps and databases\\mugiwaramusic\\mugiwaramusic\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\mugiwaramusic\\dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2CB7C-981F-48A3-979F-0A5D54E13092}|MugiwaraMusic\\MugiwaraMusic.csproj|solutionrelative:mugiwaramusic\\dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataIO.cs",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\DataIO.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\DataIO.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\DataIO.cs",
+              "RelativeToolTip": "MugiwaraMusic\\DataIO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T04:30:41.882Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Audio.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\Audio.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Audio.cs",
+              "RelativeToolTip": "MugiwaraMusic\\Audio.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:13:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Audio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Audio.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\Audio.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Audio.cs [Design]",
+              "RelativeToolTip": "MugiwaraMusic\\Audio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:13:22.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\MainPage.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\MainPage.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\MainPage.cs",
+              "RelativeToolTip": "MugiwaraMusic\\MainPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:30:09.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\MainPage.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\MainPage.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\MainPage.cs [Design]",
+              "RelativeToolTip": "MugiwaraMusic\\MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:30:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Playlist.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\Playlist.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Playlist.cs [Design]",
+              "RelativeToolTip": "MugiwaraMusic\\Playlist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:19:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Playlist.cs",
+              "RelativeDocumentMoniker": "MugiwaraMusic\\Playlist.cs",
+              "ToolTip": "C:\\Users\\amazi\\OneDrive\\Desktop\\C# coding\\Websites, Apps And Databases\\MugiwaraMusic\\MugiwaraMusic\\Playlist.cs",
+              "RelativeToolTip": "MugiwaraMusic\\Playlist.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAA4wJ8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:04:28.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
